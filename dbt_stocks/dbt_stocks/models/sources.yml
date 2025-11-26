@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: STOCK_MDS
+    SCHEMA: COMMON
+    tables:
+      - name: bronze_stock_quotes_raw
+        description: "Raw stock quotes data ingested from Kafka topic 'stock-quotes'.
