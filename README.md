@@ -150,6 +150,6 @@ real-time-stocks-pipeline/
 
 **Author**: *Avirukth* 
 
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
+**LinkedIn**: [AvirukthGT](https://www.linkedin.com/in/avirukth-thadaklur/) 
 
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
+**Contact**: [avirukth@gmail.com](mailto:datawithjay1@gmail.com)
