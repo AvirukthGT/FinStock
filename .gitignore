@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python virtual environment
+avirukth/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE and editor specific files
+.vscode/
+.idea/
